@@ -11,7 +11,25 @@ Large language models (LLMs) have recently driven striking performance improveme
 
 ### Dataset Details
 
+|     Domain      |                  Description                  |      Sources       |  |   Label   | Distribution |        |
+| :-------------: | :-------------------------------------------: | :----------------: | :----------: | :-------: | :---: | :----: |
+|                 |                                               |                    |    Fact.     | Non-Fact. | NEI   | ALL    |
+|  Multifaceted   |            Contain multiple facts             |       FEVER        |    1,111     | 1,111     | 1,110 | 3,332  |
+|   Structural    |   Contain structured and unstructured facts   |      FEVEROUS      |    1,741     | 1,953     | 250   | 3,944  |
+|   Adversarial   |  Contain facts edited by adversarial methods  |   Symmetric, FM2   |     815      | 921       | -     | 1,736  |
+|    Temporal     |      Contain facts that change over time      |      VitaminC      |    1,898     | 1,043     | 355   | 3,296  |
+|   Real-World    |   Contain factual statements spread online    |     PolitiFact     |     986      | 1,987     | 609   | 3,582  |
+| Domain-Specific | Contain facts from health and science domains | PubHealth, SciFact |    1,156     | 715       | 737   | 2,608  |
+|  Multi-Lingual  |     Contain facts in different languages      |    XFact, CHEF     |     820      | 848       | 547   | 2,215  |
+|      % All      |                                               |                    |    8,713     | 9,619     | 3,608 | 21,940 |
 
+The raw Pinocchio dataset file can be found in:
+
+- `Pinocchio/dataset.jsonl`
+
+The Pinocchio Lite dataset files can be found in:
+
+- `Pinocchio/lite/`
 
 ### Citation
 
