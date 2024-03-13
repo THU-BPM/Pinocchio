@@ -9,7 +9,7 @@ Large language models (LLMs) have recently driven striking performance improveme
 
 
 <p align="center">
-    <img src="img/Pinocchios_00.jpg" height="300"/>
+    <img src="img/Pinocchios_00.jpg" height="500"/>
 </p>
 
 ### Dataset Details
