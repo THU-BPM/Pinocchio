@@ -1,0 +1,200 @@
+{"claim": "Do e-cigarette researchers count puffs and scour Facebook as millions vape?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does zinc edge out chicken soup when it comes to the cold virus?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does the CDC need to stop calling COVID-19 an \"epidemic\" because of the remarkably low death rate?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Has Bodycad used its Unicompartmental Knee System in patients?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Did President Barack Obama say over 20 times that he did not have the legal authority to act as he did on immigration?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Did a Texas girl require surgery after she swallowed part of a fidget spinner while cleaning it?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is a wearable medical device being developed for type 2 diabetes?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Did Meryl Streep give accused pedophile Roman Polanski a standing ovation at the Oscars even though she was critical of President-elect Donald Trump in a Golden Globes speech?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the FDA approve Bayer's Kyleena\u2122 (Levonorgestrel-Releasing Intrauterine System) 19.5 mg for prevention of pregnancy for up to five years?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the photograph show a KKK member being treated by an all-black emergency room staff?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does Britain support GSK's gene therapy for 'bubble boy' syndrome?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the Missouri student on Columbia campus have active tuberculosis?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does AstraZeneca's diabetes drug Farxiga have fast track status from the FDA?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does a Chilean girl with cystic fibrosis tell the president to let her die?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is 12 minutes of yoga beneficial for better bone health?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Was Deborah Harry nearly abducted by serial killer Ted Bundy in New York and did she narrowly escape with her life?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does the FDA approve expanded indications for Ilaris for three rare diseases?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did U.S. President Donald Trump golf several times and hold a number of rallies after learning about the threat of the coronavirus?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the house protect pizza as a vegetable?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Have 1,000 GP practices closed since 2010?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did police deaths reach 200 a year again until the year Nixon declared war on drugs after prohibition ended?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Did U.S. Sen. Elizabeth Warren say or argue that taxpayers must fund sex reassignment surgery?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Did someone win the Nobel Prize for using evolution to create new proteins in chemistry?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Have we seen our COVID rate skyrocket by 40% since the reopening of Georgia?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does data suggest that opioid-related overdose deaths in Alaska are down?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does a vast majority of the production in the United States come from small independent oil and gas companies?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Would Wisconsin Gov. Scott Walker's budget-repair bill take away any say that public employees have in the workplace and eliminate their union?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Will Italy stop caring for elderly patients who are infected with novel coronavirus strain COVID-19?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Can you starve prostate cancer with what you eat for dinner?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does the drug for refractory psoriatic arthritis show promise in clinical trial?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Will taking a few drops of Visine brand eye drops internally induce uncontrollable diarrhea?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Do health officials in Omaha confirm 2 pediatric flu deaths?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is there a demonstrable link between marijuana legalization and an increase in violent crime?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is aspirin linked to lower pancreatic cancer risk?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Did U.S. Senator Kamala Harris brag, boast, or laugh about prosecuting a homeless single mother in a January 2010 speech?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Do Ebola vaccines show promise in the new study?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the Philippine volcano tremble more and spew lava half-mile high?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Do Palestinian health officials say that Gaza has run out of coronavirus tests?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Can a quick brain scan screen for autism?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does the UN see bird flu changes but consider the risk of people spread to be low?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is folic acid tied to better grades in Swedish teens?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Did a federal judge approve GOP Congressman Trey Gowdy's request to exhume the body of Vince Foster to determine if Bill and Hillary Clinton were involved in his death 23 years ago?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Did U.S. Representatives Rashid Tlaib and Ilhan Omar co-sponsor legislation to recognize Muslim holidays as federal holidays?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "\"Did the flu kill 80,000 people in the U.S. last year?\"", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Do policies that legalize recreational marijuana worsen America's opioid addiction epidemic?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did cost issues temporarily stall passing a bill approving roughly $8 billion in emergency funding as the United States government tried to negotiate a response to a novel coronavirus strain?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Did Massachusetts' mortality rate decrease after passing a mandatory health insurance law and save lives?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Did Nancy Mace say that Kamala Harris \"advocated for restoring voting rights for the Boston bomber\"?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does a new adult behavioral health unit open in northern Arkansas?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Do some doctors question the new cancer treatment?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Are you worried about dementia? Would you like to check your blood pressure?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "\"Can fish tank additive treat coronavirus?\"", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Did University of Findlay research students discover a chemical compound that kills glioblastoma cells?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Do clusters of illness linked to CBD vapes share a second connection?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is there a public study available that has looked at using the product Kaput to poison feral hogs?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the heart device cut the death rate?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Did the actor Nora Kirkpatrick play a victim as part of a fake terrorist bomb attack at Parsons Green in London?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Was Obama's one education accomplishment legislation to teach \"comprehensive sex education\" to kindergartners?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does Chris Sununu say that drug dealers have \"overdosed on purpose\" to avoid prosecution?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is the older emphysema drug linked to heart deaths?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Did Chris Christie advise U.S. President Donald Trump to try and make Joe Biden stutter during the 2020 presidential debates?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did a poll show that 70 percent to 75 percent of people want to see Confederate statues \"remain up and not taken down\", according to Sid Miller?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Has this town (Wilmington, Ohio) taken any money from the government and do they want any money from the government?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Was heparin recalled in France, Italy, and Denmark, according to a report?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is the Centers for Disease Control and Prevention ordering that all deaths, regardless of the cause, be counted as COVID-19 deaths through a new ICD code?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does a warning label on a box of disposable masks show that they are ineffective at protecting against the spread of COVID-19 according to a Facebook post?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does Taiwan's carrot-and-stick approach to virus fight win praise, but show strains?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Has Virginia lagged behind other states when it comes to covid-19 testing?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the nurse's kidney donation trigger a bi-state transplant chain?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does Adam Hasner say that George LeMieux compared Marco Rubio to Barack Obama?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Do knee braces ease osteoarthritis pain?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Do women's menstrual cycles synchronize when they live or work in close proximity to one another?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Was the artificial sweetener Splenda adequately tested and deemed safe for human consumption?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Do nanoparticles loaded with component of common spice kill cancer cells?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Can menopause 'hot flash' medicine reduce symptoms by three quarters, as shown by the trial?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Did Wikileaks documents reveal that Hillary Clinton was injured in a plane crash during a secret mission to Iran in 2012?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Are clout-chasing teenagers participating in the \"coronavirus challenge\" on TikTok, Instagram, and other social media platforms, sharing attempts to infect themselves and contract COVID-19?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Will Obamacare provide insurance to all non-U.S. residents, even if they are here illegally?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does statistics demonstrate that crime rates in Australia have increased substantially since the government there instituted a gun buy-back program in 1997?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Did Theophilus Van Kannel develop the revolving door because of an aversion to holding open doors for women and other acts of chivalry?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is it true that 5 different types of prostate cancer have been found and that people may be at risk?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Have you slashed government by 10 percent in Florida resulting in $7 billion?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is ATTC VR-84 a patent for Zika virus that comes from the Rockefeller Foundation?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is the US the first to approve a drug aimed at women with inherited breast cancer?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Has the Obamacare medical device tax led to the loss of thousands of jobs in the U.S.?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does easy nondrug help aid ADHD kids?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is determining what is and isn't a Schedule I narcotic a job for Congress?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does a meme accurately describe 'The Nancy Pelosi Crime Family'?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Should anticoagulants be used to fight Covid-19?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is it possible to track the risks and rewards of transcranial magnetic stimulation?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did President Donald Trump attack a political opponent and brag about crowd sizes during remarks about two mass shootings?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did the homeliest nut just get better?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does a meme accurately describe the arc of Bernie Sanders' (financial) life?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did President Donald Trump allow the use of chlorpyrifos in chemical pesticides because Dow Chemical paid him $1 million?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does fish oil have benefits after a heart attack according to the study?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does the photograph show two children holding a 'F*CK Donald Trump' sign at a Chicago rally?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Would a single shot suffice in testing for allergies?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is scarless weight-loss surgery a pacemaker for your hunger?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is it advisable to hold off on those extra vitamins?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did Donald Trump divorce Ivana Trump because of her imperfect breast implants and did he leak that information to New York tabloids while they were married?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does glutamine cyclase (GC) compete with NTAQ1 for Nt-Gln substrates by forming N-terminal pyroglutamate?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does GATA3 regulate cell cycle progression in bone marrow hematopoietic stem cells?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does deletion of ATM and Rad3 related protein lead to acute tissue loss?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Do CD28 signals regulate the trafficking of murine auto-reactive T cells into target tissues?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does interleukin-18 play an important role in the pathogenesis of atherosclerosis?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Can the severity of cardiac involvement in amyloidosis be described by the degree of transmurality of late gadolinium enhancement in MRI?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is the therapeutic use of the drug Dapsone to treat pyoderma gangrenosum based on anecdotal evidence?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does PCSK9 inhibitor reduce plasma Lp(a) levels?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does intake of folic acid (FA) and vitamin B6 (VB6) reduce levels of homocysteine?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Are crossover hot spots found within gene promoters in Saccharomyces cerevisiae?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Are Golli-deficient T-cells dormant in initial clonal expansion?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does the use of antidepressants increase the risk of myocardial infarction due to associated side effects?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does IL-10 production by monocytes encourage CD4 + T cell response?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is urbanization an important risk factor related to the transmission of dengue fever?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Did 32% of liver transplantation programs require patients to discontinue methadone treatment in 2001?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Do miRNAs suppress low-level \"leaky\" transcription to enforce homeostasis?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the replacement of histone H2A with H2A.Z slow down gene activation in yeasts by stabilizing +1 nucleosomes?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does CX3CR1 on the Th2 cells impair T cell survival?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Do activated B cells migrate towards the inner and outer follicular areas where oxysterol accumulation is generated by stromal cells during the primary early antibody response?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Can environmental factors influence the development of breast cancer?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is there an association between qSOFA scores and length of stay in emergency department patients?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Do IncRNAs occupying ribosomes create functional peptides?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Do guanine nucleotide exchange factors (GEFs) mediate RhoA activation in response to tensional forces on fibronectin-binding integrins?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is TNFAIP3 a glioblastoma tumor suppressor?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is the single flash-evoked ERG b-wave generated by activity of ON-bipolar cells?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does immune complex-triggered cell death lead to the extracellular release of the neutrophil protein HMGB1?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does ethanol stress increase the expression of PSP in bacteria?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is Bone Marrow transplantation used to treat acute myeloid leukemia (AML)?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does the HIV trans-activator protein (TAT) effectively transport large and small molecules across cellular membranes into larger populations of neurons?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is sequence conservation in gene regulatory regions between species a good predictor of conserved functionality?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does reduced phosphorylation of PP2A suppress HDAC4 dephosphorylation?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Are 61% of colorectal cancer patients diagnosed with regional or distant metastases?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is there a correlation between headaches and cognitive impairment?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Are microglia an innate immune cell type of the peripheral nervous system?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Are Piezo1 channels sensors for cell crowding in epithelial cells?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does ethanol stress increase the expression of SRL in bacteria?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is oxidative phosphorylation one of the primary glycometabolic pathways in cells?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does active H. pylori urease have a polymeric structure compromising two subunits, UreA and UreB?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is it proven that moderate consumption of candy and chocolate reduces the risk of cardiovascular disease (CVD) specifically?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Do cytosolic proteins bind to iron-responsive elements on mRNAs coding for proteins involved in iron uptake?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does HOXB4 facilitate HSC expansion when co-cultured with HSCs?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Do recurrent mutations occur frequently within CTCF anchor sites adjacent to oncogenes?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does NF2 (Merlin) prevent phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is deletion of ATM and Rad3 related protein predictive of acute tissue loss?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does PrimPol generate short DNA replication intermediates on the leading strand during DNA replication?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does Hematopoietic Stem Cell purification reach a purity rate of up to 50%?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does the ER-localized phosphatase Sac1 process PI4P through coordination with OSBP and the endosome-localized protein sorting nexin 2?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does increased microtubule acetylation repair interference of axonal transport caused by LRRK2 Roc-COR domain mutations?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is suboptimal nutrition a leading cause of chronic disease?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does monoclonal antibody targeting of N-cadherin inhibit castration resistance?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does AMP-activated protein kinase (AMPK) activation reduce inflammation-related fibrosis in the lungs?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Are women with a higher birth weight more likely to develop breast cancer later in life?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does high levels of CRP reduce the risk of exacerbations in chronic obstructive pulmonary disease (COPD)?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does the loss of myoepithelial cells promote the transition of ductal carcinoma in situ to invasive carcinoma in breast cancer?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does tonic signaling from the scFv prevent constitutive stimulation?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does S-nitrosylated GAPDH physiologically transnitrosylate histone deacetylases?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Do at least 85% of patients exposed to radiation have activated markers of myofibroblasts?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is there an inverse relationship between hip fractures and statin use?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does post-transcriptional handling of mitochondrial transcripts occur in mitochondrial RNA granules?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the number of unfertilized oocytes in mated hermaphrodites decrease with age?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is RP expression controlled in part by stress-activated regulators?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does phosphorylation of MafA enhance its ubiquitination?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Are forkhead 0 (fox0) transcription factors involved in apoptosis?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Does the minor G allele of FOXO3 downregulate pro-inflammatory cytokines?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Do bnAb 10EB have any affinity for phospholipids?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is crosstalk between dendritic cells (DCs) and innate lymphoid cells (ILCs) important in regulating intestinal homeostasis?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Can cancer cells promote the production of granulocyte colony stimulating factor, which results in the accumulation of intra-tumoural myeloid-derived suppressor cells?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Do female carriers of the Apolipoprotein E4 (APOE4) allele have a reduced risk for Alzheimer's disease?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does insulin increase the risk of severe kidney failure?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Is AIRE expressed in some skin tumors?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is it true that Lmna knock-in models are unsuitable for testing therapeutic approaches against Hutchinson-Gilford progeria syndrome (HGPS)?", "label": "Not Enough Information", "domain": "Domain-Specific"}
+{"claim": "Does dexamethasone decrease the risk of postoperative bleeding?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Can proteins in human cells be post-translationally modified at lysine residues through acetylation?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is the rate of hypertension in patients with type 2 diabetes mellitus similar to that of non-diabetic subjects?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does whole brain radiotherapy increase the occurrence of new brain metastases?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Has the incidence of sepsis changed between 2009-2014?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Can falsified artemisinin family drugs with no active ingredient be life-threatening?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is FoxO3a activation in neuronal death mediated by reactive oxygen species (ROS)?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is TNFAIP3 a tumor suppressor in glioblastoma?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does JMJD6 slow down the hydroxylation of C-terminal lysine?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does hyperfibrinogenemia increase rates of femoropopliteal bypass thrombosis?", "label": "Factual", "domain": "Domain-Specific"}
+{"claim": "Is general exercise therapy more effective than scapular stabilizer exercises in reducing pain and improving function of the shoulder?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does combining physical examinations with C-reactive protein values improve the accuracy of radiographically verified pneumonia predictions?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does the lack of FGF21 in mice slow the rate of atherosclerotic plaque formation?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is allogeneic mechanical circulatory support as effective as autologous mechanical circulatory support for treating acute myocardial infarction?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does deficiency of Tetraspanin-3 cause improved stem cell-renewal and slow disease propagation?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Are nonsteroidal anti-inflammatory drugs effective as cancer treatments?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does MUC1-C inhibit the NF-\u03baB p65 signaling pathway by interacting with I\u03baB kinase \u00df?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does LDL cholesterol have any involvement in the development of cardiovascular disease?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does Pyridostatin delay checkpoint activation?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does participating in six months of physical activity impair cognitive functioning?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does rapamycin accelerate aging in fruit flies?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is integrated care effective at tackling multiple comorbidities?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does the activation of nuclear RNAi cause C. elegans germlines to lose their immortal character?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does increased microtubule acetylation worsen interference of axonal transport caused by LRRK2 Roc-COR domain mutations?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is the minor G allele of FOXO3 related to more severe symptoms of Crohn's Disease?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is hypothalamic glutamate neurotransmission related to energy balance?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Do ribosomopathies have a low degree of cell and tissue specific pathology?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Does engagement of Smc5/6 halt the activation of Mms21 SUMO E3 ligase through ATP-dependent remolding?", "label": "Non-Factual", "domain": "Domain-Specific"}
+{"claim": "Is a diminished ovarian reserve a strong indicator of infertility, even in a non-infertile population?", "label": "Non-Factual", "domain": "Domain-Specific"}

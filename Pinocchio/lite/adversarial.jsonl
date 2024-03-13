@@ -1,0 +1,200 @@
+{"claim": "Do all of the students at the University of Mississippi come from Mississippi?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Matteo Renzi Italian?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does the History of Earth date back less than 5 billion years?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is the Hanford Site incapable of hosting the Pacific Northwest National Laboratory?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is aerobic exercise good for heart health?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Rachel Green a fictional character?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Sean Penn only a stage actor?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Colombiana produced by Luc Besson?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Has You Belong with Me been performed live yet?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does exercise temporarily decrease the heart rate?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is the Colosseum in Italy?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Soyuz part of a military program?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does Juventus F.C. wear a black-and-white-striped home uniform?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Ron Weasley a part of the Harry Potter series as the eponymous wizard's best friend?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did the Faroe Islands exist in 1035?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does Blue Jasmine have Sally Hawkins acting in it?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Aristotle visit Athens?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was the Armenian Genocide the killing of Armenians who were mostly American natives?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Caroline Kennedy American?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Angelsberg in Luxembourg?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Saturn the second-largest planet in the Solar System?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Down With Love a 2003 horror film?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Saturn larger than Jupiter?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Magic Johnson play for the Lakers?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is it true that the Hundred Years' War includes the Edwardian Era War and was the first phase in the war?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Colombiana a Pakistani film?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is DNA a single molecule?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Brad Wilk help co-found Rage in 1991?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does Blue Jasmine take place in San Francisco?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Are the Bloods identified by the blue color worn by their members?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did the Washington Wizards win the division title in 2017?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Tenacious D start in Texas?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does AMGTV have drama television programming?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Veeram have a director?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Caroline Kennedy Armenian?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was In the End positively reviewed?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Aristotle spend time in Athens?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Mel B release a song on Virgin Records in 2007?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does Duff McKagan dance sometimes?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Tim McGraw direct The Blind Side?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is the story in the novel mostly told by housekeeper Nelly Dean to Lockwood?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is metamorphosis a theme in the Latin narrative poem?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was High Noon shot in the Golden State?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does American baseball player Charles Augustus \"Kid\" Nichols have any siblings?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Valentin Alkan a musician in the 1800s and a prodigy?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Roberto a baseball player from San Juan, PR?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Hugh Jennings of English descent?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did author Lewis Carroll say that the made-up word \"rath\" in \"Jabberwocky\" should be pronounced the same way \"wrath\" is?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Jane Addams become the 1st American woman to receive the Nobel Peace Prize?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Ken Griffey Jr. the second most prolific home run hitter in baseball history?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was the play \"The Tempest\" printed in 1610?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Ambrose Burnside support the NRA?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did The Undertaker think about becoming a professional basketball player?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is King Kelly a baseball player and of Irish descent?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Margaret Thatcher the second female prime minister of the United Kingdom?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Tottenham Hotspur F.C. created by a few younger lads headed by one named Billy Beltlatch?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Red used to large families because he was one of 7 and ended up having 7 great grand kids?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does the Song of Solomon's main storyline or plot celebrate sexual love?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Paul McCartney's father at the hospital when he was born?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Has Winslet donated any props or clothing from movies she has done to be sold for charities?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Mikhail Gorbachev a singer?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does Mirren have thirteen siblings?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Parker cite his childhood sweetheart and future wife Rebecca Lewis as his biggest influence, whose father taught him the basics of improvisation on saxophone?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Sweden join the Cold War despite staying out of other previous wars in the 20th century?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Tchaikovsky a composer of the Industrial Revolution period?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Deng Xiaoping play a major role in China's economic development?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does sulfuric acid have any practical uses?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is this the sequel to the Three Musketeers where the Musketeers meet again to join forces for the Queen?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Are the origins of Elegy Written in a Country Churchyard known?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Johnny Depp win any awards for his roles?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is the mosque, Al-Aqsa situated in Damascus, Syria?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Georges Bizet die in his early 40s?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does the film \"Nicholas and Alexandra\" depict the killing of peasant Rasputin due to his influence over the Tsarina?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did the Giants ever win the play-offs while Welch was on the team?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did the Meiji Restoration cause China to industrialize?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does King Kelly share the same first name as his father and is he known for his baseball career?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Dukas born in Lyon, France?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Diana die in a car accident in 1997 with her driver and her companion?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was The Playboy of the Western World made into a movie?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Has The Merry Wives of Windsor received lower praise than the author's other works?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was The Girl with the Dragon Tattoo made public a few years before its author's death?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Joe Cronin Californian?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is the bridge a combination of cable and suspension?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Francis Bebey complete his higher education in Milan?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Has alcohol been distilled since the 19th century BCE?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Roger Connor recruited by the Trojans because he was a left-handed third baseman?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Newman born in the Pennsylvania Amish country with parents who exercised a religion that didn't believe in using modern medicine in times of illness before their death?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was the gate built on the orders of the French king?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Ken Griffey Jr. play for two baseball teams in the Majors, the Mariners and Reds?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did the Meiji Restoration finish after Ieyasu Tokugawa, their last heir, died in battle?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Kiner's injuries cause him to retire from playing baseball?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did The Apartment get mixed reviews?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Beyonce grow up in Alabama?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Puyi married only once in his lifetime?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is A Song of Ice and Fire a series of epic books that later became a movie series?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does Elizabeth II have Irish roots?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Biz Mackey play for the Daisies before 1923?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does the British Museum in London, United Kingdom charge admission?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Katy Perry's debut album successful?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Cooper's father die from a bad motorcycle accident?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was James VI and I an ally to females who were being persecuted for possibly practicing witchcraft?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does Hannah and Her Sisters start at a Turkey feast and conclude at a Turkey feast?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Beyonc\u00e9 release her first solo album on her 25th birthday, after being a member of the music group Destiny's Child?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Robert Duvall's father an engineer?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Zebulon Pike have four kids who passed away and was he born in Virginia?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does Shakira have eighteen brothers and sisters?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did George Sisler also serve as a manager for an MLB team?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was the Battle of Hastings a dispute between Lord Farquaad, Prince of Canterbury, and French ruler Louis the Vll, where Louis the Vll won and became King of Genovia, now known as Geneva, in 911?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Ken Griffey Jr. born in Pittsburgh and did he live there for 7 years before moving to a different state?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Mr. Chips, of Goodbye, Mr. Chips, the inspiration for a character in any popular crime dramas?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was The Clouds a well-liked play when it came out?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does the series have over 40 volumes?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Tom Petty die on his birthday after having a successful career?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Ronaldo known as one of the best players of all time?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Charles II die of a heart attack?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Mikhail Gorbachev given a Nobel Peace Prize?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Newman have a brand covering lots of products but not foodstuffs in 1968?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did the leaders of the Black Hawk War manage to run away?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does Ralph Kiner have English roots?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Hadrian pass away in his villa and were his ashes eventually placed with his wife's and son's?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was High Noon shot on the west coast?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was the novel based on a real baseball player?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does the Song of Solomon differ from most books in the Hebrew bible?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does Sisler's sobriquet refer to his good looks?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Dante Gabriel Rossetti appreciate the book even though he spoke negatively about it as an English poet?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was the First Crusade a religious war between the Muslims and the Christians that involved anti-Jewish activities?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Francisco Franco become Claudio the First?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did the second set of collection of poems for the Songs of Innocence come after 8 years with a new title?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Pink Floyd write any movie soundtracks?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did former U.S President Kennedy take his first and middle name from his grandfather?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is the Diet of Worms being discussed one of many religious meetings to occur at the location and share that general title?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Kate Winslet born in England?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Roger B. Taney the fourth Chief Justice of England's Parliament elected in 1835?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Cristiano Ronaldo the 2nd youngest of his 4 siblings?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Do many people believe that the Hull House is full of the spirits of past residents?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Charles Comiskey begin his baseball career by buying a club and becoming a manager, and did he rack up an impressive 839-542 record before going on to play?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was the film Gravity produced in the UK and did it win six BAFTAs while starring Sandra Bullock?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Richard II a Spanish monarch?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Has Argentina always had an antagonistic relationship with teams from the other nations around it?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did someone become famous for creating videos on how to raise farm animals on one of ByteDance's properties?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was The Tempest the first play that Shakespeare wrote alone?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Pope Pius XII born in Austria?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Earl Weaver a defensive minded coach who was a go big or go home type of MLB manager on offense?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was the city of Toronto also named York until 1834, and is it not to be confused with New York city?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Charles Comiskey's father a professional baseball player?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Have melanistic leopards been seen in fields in New Zealand?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Ambrose Burnside become a Democrat after the Civil War, the man for whom sideburns are named?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Johann Sebastian Bach considered one of the best composers?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is \"A Bell for Adano\" a film about a military major who is put in control of the town Adano?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Does Tottenham Hotspur Football Club play in the White Hart Lane Stadium?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Houstonian American singer Beyonc\u00e9 in the group Destiny's Child until 2006?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was the production of the movie, The Bells of St. Mary's done by Unicorn Label?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Roberto Alomar still working in baseball?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is the monument located in the old town square of Frankfurt?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did English-American umpire Thomas Henry Connolly play cricket as a kid but later umpired for Major League Baseball after seeing baseball for the first time when his family moved to Massachusetts when he was 15?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did former U.S President Nixon represent California in the U.S Senate?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did We Like Digging receive a Grammy?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Were watchers disappointed by High Noon's focus on characters, emotion, and storytelling instead of action and explosions?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Schindler's List inspired from the life of an author?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Roland Fingers a Cy Young winner and did he play for four teams in the majors?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is BlacKkKlansman a 2018 American crime film written and directed by Spike Lee that was selected as one of the top 10 films of 2018 by The American Film Institute?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is The Heart is a Lonely Hunter about a deaf man?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is it true that the band B'z was all hard rock, and that their guitar style was an alternative one unknown to Asia?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Apocalypse Now a movie about the Vietnam War and based on the director's time fighting?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does the subversive nonsensical language in the poem allow the user to come to their own conclusions on the appearance of the creature?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Are there two schools and two service bells in the precinct of the abbey in London?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Have there been many written records found about Guatama from his lifetime?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Sweden's principal export silver?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Sons and Lovers described as one of D.H Lawrence's best works?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Inglourious Basterds star Brad Pitt as Shosanna Dreyfus?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was Buddha reborn as Gautama and did he come to life and live in Ancient India in what is now Kapilavastu?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Mozart have six brothers and sisters?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Were some of the dragons in Game of Thrones inspired by the anatomy of Bald Eagles?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did the film perform well financially?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Did Paul Newman direct many theatre productions?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was \"The Fountainhead\" written in 1953, but set in 1922?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Diana ever hold a regular job?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did Kate Bush write a song called \"Wuthering Heights\" primarily inspired by the Olivier-Oberon film version?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is it known where Elegy Written in a Country Churchyard originated from?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is Wuthering Heights the only completed book by Emily Bronte?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Do all Moai have oversized heads?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does this novel partially follow a man who is too shy to confess his feelings for a lady?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Has Enya sung songs in over 6 different languages?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is the Brooklyn Bridge the longest suspension bridge in the world that spans the East River between the boroughs of Manhattan and Brooklyn?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Are the Mo'ai monolithic human figures and were they all completed?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did the Hull House, founded in 1889 in Chicago, Illinois, close in 2020?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does oxygen make up the highest portion in the composition of earth?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does this play prominently feature a fictional play inside it?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Was Pinterest banned in South Korea in the late 2010s?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Was it first published in 1855?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Did One Direction originally have 5 members?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Leon Trotsky Orthodox?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Is The Cantos a very long complete poem with 117 sections and is considered to be an easy and fun read?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Are a few people buried in the Pantheon and can it be used as a Christian worshiping place?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Has Redgrave remained publicly neutral on any of her personal political views in order to avoid controversy?", "label": "Non-Factual", "domain": "Adversarial"}
+{"claim": "Does Germany have the 2nd most amount of people in Europe and the most in Europe's Union?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Could Tom Petty's demise be attributed to inadequate follow-up medical care?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is The Open Boat based on a true experience?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Is Mike Schmidt considered as one of the greatest?", "label": "Factual", "domain": "Adversarial"}
+{"claim": "Have there been more than 50 translations of the Jabberwocky?", "label": "Factual", "domain": "Adversarial"}

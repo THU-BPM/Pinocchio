@@ -1,0 +1,200 @@
+{"claim": "O Brasil parece ter voltado décadas atrás? Houve aumento da mortalidade infantil?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Estão mais de dois anos sem nenhum julgamento mais de 25% dos nossos presos e presas?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Do only 3,522 of the 16,000 certified teachers have the possibility of earning 800 GEL?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "1923-1950 arasında yapılan toplam 3,4 milyar dolar ihracat şimdi bir haftada yapılıyor mu? Aynı dönemde Türkiye'nin dış ticaret açığı sıfır mıydı? Bugün ise haftada 1,2 milyar dolarlık ihracat yapılıyor mu?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Did Turkey achieve a growth rate of 5.7 percent in the fourth quarter of 2015 and 4 percent for the entire year, surpassing 23 European Union member countries in terms of growth rate?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Did only 5 students who joined the government school in 2017 have the opportunity to study medicine?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "A publicação disseminada no Facebook garante que Dejan Lovren, defesa, é o melhor jogador de futebol do mundo?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Does our trade with Germany account for over 40%?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Eles sabiam do negócio da movimentação militar?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "არის 2 მლნ. ლარზე მეტით შემცირდა [ბიუჯეტის მეორე წარდგენით] მეცნიერების დაფინანსება? (Has financing for the research been reduced by more than 2 million GEL [according to the second budget plan]?)", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Está o satélite geoestacionário permitindo que levemos a banda larga para todo o Brasil?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Did authorities write 700-800 orders when the judiciary merged in 2005?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "AK PARTİ iktidarıyla geçen son 10 yıl işsizlik oranlarında en kötü 10 yıl mı oldu?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Sono in aumento in Italia la droga e le armi?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Czy cztery lata temu PSL miało 16 mandatów, a PO miało 15 w sejmiku woj. mazowieckiego, a układ w zarządzie województwa był 3:2 na korzyść PO?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Czy Polska gospodarka rozwija się niezwykle szybko i jest cały czas liderem w Unii Europejskiej?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Utiliza o óleo artesanal da cannabis a planta inteira para alcançar uma resposta terapêutica melhor do que os compostos industrializados?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Apakah benar bahwa Indonesia menjadi satu-satunya negara di dunia yang pemerintahnya bahagia merelakan rakyatnya menjadi kelinci percobaan vaksin dari China?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "هل حدثت فيضانات غير مسبوقة في \"جاردن سيتي\"، أحد أحياء العاصمة السودانية الراقية، وأدت إلى مشاهد مأساوية لغرق المنطقة؟", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Are many speakers of the House re-elected?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "\"Is it true that Jokowi's painting has long hair?\"", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Did 135 billion dollars of foreign investment come to Turkey in 13 years?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Apakah mengonsumsi pisang dalam satu hari dapat membuat virus corona pergi?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "هل أعلنت الصين أن المتعافين الذكور من فيروس كورونا المستجد \"كوفيد 19\" أصيبوا بالعقم؟", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Does the Indian government reject the biggest request from WhatsApp to learn about fake news that circulates on its platform?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "L'Italia è al ventesimo posto per livello di disuguaglianza tra i 28 Paesi dell'Unione europea e il 20% più ricco degli italiani deteneva oltre il 66% della ricchezza nazionale a metà del 2017?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "O comentador Pedro Marques participa no programa \"Eixo do Mal\" da SIC Notícias?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "არის თუ არა \"ოცნებამ\", საქმეების ინდივიდუალური შესწავლის გარეშე, 200-ზე მეტი პირი პოლიტიკური პატიმრის სტატუსით გ...?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Does human protection apply only to Italy and Slovakia? Is Di Maio wrong?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "¿Chequeaste a los candidatos antes del domingo?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Apakah Prabowo-Sandi menang dalam Exit Poll di beberapa negara luar?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Você trabalhou muito e quer registrar que no período em que esteve na chefia da Polícia Civil, vocês fizeram 6 concursos públicos?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Este recomandată testarea în masă doar de persoane care vor să pară interesante?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Do 85% dos incentivos concedidos pela Lei de Incentivo à Cultura ultrapassam R$ 1 milhão?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "O termômetro infravermelho deve ser apontado para a testa de alguém, especialmente bebês e crianças pequenas? E é seguro visar diretamente a glândula pineal, localizada no centro da testa, com um raio infravermelho? É importante proteger nossas glândulas pineais para garantir nossa saúde no presente e no futuro, concorda?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Is the G20 Argentina hosting the first G20 Summit in South America?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Este adevărat că în mod uzual - și nu numai în țara noastră, ci și în țările cu democrații mai consolidate și mai rodate - majoritatea membrilor guvernului sunt?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "அவர்தான் இன்றைய தமிழக முதல்வர்அண்ணன் எடப்பாடியார் என்று மட்டும் அல்லது அது உண்மையானது என்று உறுதியாக அழைக்க முடியுமா?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "As unidades (de saúde da Prefeitura) vão funcionar 24 horas por dia?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "É uma pergunta factual que o Augusto Santos Silva fez na Convenção Europeia do PS?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "გაქვთ შესაძლებლობა ბიუჯეტში შენახვას გავაკეთოთ სულ მცირე 100 ახალი ეკოლოგიურად სუფთა ავტომობილისთვის, რომ შემდეგ წლებში შეძლოთ გადასატანად?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Foi visto um objeto retangular e escuro voando sobre uma cidade no es...?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Apakah Pemkot Palu telah memberikan klarifikasi terkait Surat Edaran Hunian Tetap dan Dana Stimulan?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "هل هنأ الرئيس الفلسطيني محمود عباس رئيس الوزراء الإسرائيلي بنيامين نتنياهو على فوزه في الانتخابات الإسرائيلية؟", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "არის თუ არ არის 9 მილიონის მაღალი ტურისტული რიცხვი?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "O STF condenou alguma autoridade com foro privilegiado após três anos de Lava Jato?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "¿Compran dólares el 11% de los argentinos?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Czy ten stan klęski żywiołowej może zostać przedłużony przez Sejm po upływie jednego miesiąca zgodnie z konstytucją?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Da li je istina da gotovo niko nije dočekao ovakav dan kao što sam ja dočekao, da lista koju sam vodio posle 20 godina ima najbolji rezultat u istoriji višepartijskog sistema u Srbiji, govoreći o broju glasova, a ne o broju mandata, čak više nego Miloševićeva iz 1990. godine?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Algumas publicações relataram o que afirmavam ser a verdade na semana passada, correto?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Do people who demonstrate for group rapes look like this?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Teve ela 8.314.027 milhões de votos em 2010, e foi ela eleita a primeira senadora por São Paulo?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Il decreto per aiutare le imprese dell'Italia è davvero il più ampio d’Europa?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "A CLT garante a paridade salarial entre homens e mulheres, correto?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Apakah Anda membawa lansia yang tidak terurus ke rumah lansia Atmabrata?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Apakah polisi membubarkan Parade LGBT di Istanbul, Turki?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "क्या उत्तर प्रदेश पुलिस ने नागरिकता कानून के विरोध में पत्थर फेंकने वाले एक बुजुर्ग मुस्लिम व्यक्ति पर 50000 रुपए का जुर्माना लगाया है?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Is the average growth rate of the past ten years 0.6%?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Do 60,000 citizens die annually in Romanian hospitals because we don't have a functional system?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Ai făcut o comparație cu anii 2019, 2018, 2017 și 2016, așadar ultimii patru ani? Au fost cele mai puține infracțiuni la nivel național în 2020?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Da li sam danas dobio informaciju iz Okružne Direkcije da je takav papir stigao, i može li se reći da je to najbrže ikada dobijena dozvola u istoriji našeg Grada?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "هل صورة الأستاذ محمد عيسى مدير مدرسة، بعد الاغتيالات في عدن؟", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "O PMDB já ganhou alguma eleição presidencial?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "არის თუ არა გორის ტერაქტის მონაწილეები ამ ხელისუფლებით რუსულ-ოსურ მხარეებში გადასცეს?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "არის თუ არა საბანკო რეგულაციების შედეგად ათასობით სამუშაო ადგილი დაკარგული, ესაიდან მევახშეობის პრობლემა გაქვთ?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Apakah pesan tersebut menyatakan bahwa biaya tilang baru akan diberlakukan melalui pesan berantai?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Zahlt Bayern Soforthilfe an Unternehmen mit weniger als 10 Mitarbeitern oder nicht - Sind viele Unternehmen enttäuscht?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Is the video about the moment a commercial airplane crashed near Jinnah International Airport in Karachi, Pakistan?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "თქვენ ბათუმის მშენებლობა დაიწყეთ და მერვალი ჯვარედი მიცემთან გაიზარდათ ამ მიმდევარზე?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Czy sędziowie mogą odstąpić od ścisłej kontradyktoryjności, jeśli widzą, że postępowanie wyraźnie zmierza w kierunku uniewinnienia osoby ewidentnie winnej lub w kierunku skazania osoby, co do której winy są poważne wątpliwości?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Did Sharsan's economics grow by more than 3%? Did he achieve a high performance in recent months, especially in October?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Czy minister Zbigniew Ziobro jest na trzecim miejscu od końca w ocenie ministrów rządu pani premier Beaty Szydło?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "São os filhos vítimas de violência contra a mulher?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "São esclarecidos menos de 10% dos homicídios no RJ?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "هل توجد صورة لرئيس العراق السابق صدام حسين قبل دقائق من إعدامه لم يتم نشرها من قبل؟", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Apakah Pesta Homo Seksual di Italia terjadi sebelum Covid-19 mewabah?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "ரிசர்வ் வங்கி அச்சடிக்கப்பட்ட 50 ரூபாய் நோட்டுகள் மக்களின் புழக்கத்திற்கு வெளியிடப்படும் என்று செய்துள்ளதும், அது உண்மையா?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Does the corruption concern of the Turkish people increase from 37% to 62%?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Os cientistas distribuíram milhares de doses de ivermectina nos últimos anos, o que provavelmente gerou um efeito preventivo na população da África, certo? E é por isso que houve uma incidência tão baixa de casos de Covid-19 na região desde o início, correto?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "கனடா நாட்டின் 150வது சுதந்திர தினத்தை முன்னிட்டு, அந்நாட்டின் தேசியக் கீதத்தை தமிழ் மொழியில் பாடியுள்ளனர் என்பது உண்மையா? (Did they sing the national anthem of the country in Tamil language on Canada's 150th Independence Day?)", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Czy istnieje sondaż CBOS, który stwierdza, że 85% ludzi w Polsce nie chce ograniczeń handlu w niedzielę?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Os dois últimos artigos [do projeto] falam sobre a possibilidade da terceirização, não é verdade?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "¿Se creará una Agencia Nacional de Lucha contra el Crimen Organizado?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "هل هناك صورة نادرة للفنان محمد رمضان والفنانة ياسمين صبري؟", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Seria possível afirmar factualmente o contraste supostamente traçado entre os refugiados e os sem-teto em uma publicação do Facebook?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "\"Será que devemos interromper o projeto de construção de novas unidades escolares de ensino fundamental até que todas as atuais estejam funcionando satisfatoriamente, ou seja, a partir do momento que as mesmas estiverem atingindo as metas relacionadas ao resultado de seus alunos no IDEB previamente estabelecidas pela Secretaria Municipal de Educação e a Direção das Escolas?\"", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "هل هناك مصليات يرتدين بلباس غير محتشم في آيا صوفيا بعد قرار تحويلها من متحف إلى مسجد؟", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "São apontados \"factos e coincidências\" na publicação nas redes sociais?", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "Jeste li pokrenuli veoma težak, ali odlučan program reformi sa MMF-om? Jeste li uspeli da postignete izvanredne rezultate? Je li vaš budžetski deficit u 2014. iznosio oko 6,2 odsto BDP-a, dok ste u 2018. godini imali fiskalni suficit od 0,6 odsto? Jeste li ostvarili suficit treću godinu zaredom? Je li vaš javni dug u 2014. godini iznosio oko 70 odsto BDP-a, dok sada iznosi 50,6 odsto?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Did Kátia Abreu vote against impeachment and against the labor reform?", "label": "Factual", "domain": "Multilingual"}
+{"claim": "Will this (program for installing LED lights) work within a year in the main avenues, squares, and parks?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Você falou em metralhar a Rocinha?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "არის თუ არა მერიის დაპირების მიუხედავად, მეწარმეობის ხელშეწყობის ცენტრი ბიუჯეტიდან 2.5 მლნ ლარით ფინანსდება?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "هل سقط مصاب بفيروس كورونا أرضاً في مدينة ماردين التركية وأُفيد بنقله إلى المستشفى وهل تم تصوير فيديو لرجل يسقط في مدينة غازي عنتاب ويعاني من الفيروس؟", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Os aviões do SUS estavam sendo utilizados para o transporte de drogas?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "¿Se está poniendo en marcha en todo el país? (In English: Is it being launched nationwide?)", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "¿Tenemos como objetivo lograr una Argentina con pobreza cero?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "¿La Argentina se extranjerizó más que en la época de Menem y profundizó la extranjerización?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Did they spend 41 million lari, with 19 million spent on salaries, during the last three years at the company?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "აფხაზეთში დემოგრაფიული ვითარება არის მხრივ საკმაოდ მძიმე მდგომარეობაში? პრაქტიკულად, არის დემოგრაფიული უფსკრული? (Is demographic behavior in Abkhazia generally difficult? Practically, is it complicated?)", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Você tem uma proposta para criar 4 milhões de vagas em creches?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "¿Podemos aceptar la pobreza que acompaña al 40% de nuestros niños?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "¿Quieres proponer enfrentar y derrotar el narcotráfico?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Are blocklists and mobile patrols significantly strengthened in recent years according to administrative regulations?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Apakah pihak SMPN 30 Jakarta memberikan klarifikasi atas isu gurunya tidak mau pasang foto presiden dan wakil presiden?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "São 6 milhões de famílias sem casa?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "Ist das Bild eines Mannes, der scheinbar im Wasser steht, wobei das Wasser \"kniehoch\" ist und der Mann \"läuft\"?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "გაქვთ ევროკავშირის საკრედიტო ხაზით გაცემული 180 მლნ ლარის სესხი საქართველოში ბიზნესის ხელშეწყობისთვის? დაკავშირებულია 7 00...?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "¿La defensa de los derechos humanos debería abarcar tanto el terrorismo de Estado como la acción guerrillera?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "¿Los impuestos generan empleo?", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "希腊帕罗斯岛附近海难已造成至少16人死亡吗？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "疫情期间，隐形眼镜能不能戴？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "2021年9月1日，是否构建了数字贸易促进新发展格局？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "北京中医药大学是否举办了纪念秦伯未诞辰120周年研讨会？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "味噌比黑咖啡更醒腦防癌、抗輻射吗？味噌有哪些好處？味噌能否排出人體輻射？味噌是否有助於醒腦？味噌能否改善酸性體質？味噌是否具有抗老化的功能？味噌能否降低罹癌風險？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "首届“山与影像季”是否于2021年1月8日启幕，是否帮助厦门打造电影产业发展新高地？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "地方债发行是否加速了？央行是否在三天内发行了3700亿流动性红包用于对冲？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "中国人民银行是否在2020年9月3日开展了“金融知识普及月”金融知识宣传活动？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "新北市轄內市場是否存在差異性大？是否有各自治會依照市場特性研議人流分流及管制措施？如果無法落實防疫措施會休市嗎？是否透過警察、義消加強市場稽查與輔導？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "本届北京国际电影节的签约总金额是352.23亿元吗？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "商家是否以返现等方式诱导用户刷好评侵害消费者知情权，破坏了公平交易规则？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "希腊专家是否忧虑奥密克戎已在社区传播，并且预计在2022年初会有3500例出现？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "是否有证据表明使用含有柠檬、姜、大蒜、苹果醋的食疗能够清洁血管？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "2021年6月26日,今年上半年A股IPO数量是否翻倍了？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "在东京奥运会期间，中国女排是否未能小组出线？一些自媒体是否借此制造了关于私接商业代言、国家队阻拦以及朱婷直接罢训等话题？这些自媒体是否将矛头指向了朱婷？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "农历五月五日早先是不是良辰吉日？端午节是不是一个吉祥节日？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "中办国办是否在2021年9月6日印发了关于加强网络文明建设的意见？该意见是否要求加强网络空间思想引领、网络空间文化培育、网络空间道德建设、网络空间行为规范、网络空间生态治理、网络空间文明创建？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "银保监会是否在2020年5月29日表示典当行要逐步减少房地产典当的比重？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "量子计算机能够取代经典计算机吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "泡泡玛特前路最大的短板是自主IP开发弱吗？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "口碑是否未达到预期？《八角亭谜雾》是否存在一些遗憾？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "喝牛奶会使胆固醇增高吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "中国太保是否在伦敦证券交易所披露了上市意向函？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "2021年1月20日，是不是有多只重仓白酒股基金回撤了约10%？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "浙江青山湖科技城是否设立了人才金融风险池并且该风险池的贷款规模为2亿元？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "美国是否有一个最新的机器人老婆叫做Alice，公开露面了，与真人相似度达到了99%，售价是十万美元。", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "是否有事实支持，表明变异病毒即使戴口罩也无法防护？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "山东银行业在2019年末是否实现了不良贷款的“双降”？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "原则上在第一剂或第二剂接种地区，优先开展接种的重点人群是否应该按照有关行业部门的统一安排进行接种？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "新冠病毒会通过食用海鲜传播吗？如果把尸体丢入恒河，会对当地的卫生环境造成影响吗？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "中基协在2020年2月18日是否倡议私募行业为抗疫类企业提供资金和技术支持？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "LPR在2020年12月21日保持不变，这是连续八个月的情况吗？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "赛诺菲北京生产基地是否扩产？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "2021年10月12日是否有英国媒体道歉，称传播俄罗斯偷取疫苗配方的每日快报是谣言？但太阳报是否仍然坚持自己的报道？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "维吾尔强迫劳动预防法案是否会撼动中国的发展大势？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "央行有关负责人是否在2021年7月9日表示，要推动金融机构向实体经济让利？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "行政院最新关于元旦放七天的公告是否含有病毒，并且相关网站为钓鱼网站？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "普丁的豪言是否震惊了西方？美国白宫发言人是否立即回应了俄罗斯？国家智库兰德公司是否向拜登总统提交了报告？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "金融直播带货金融产品是否存在营销风险？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "《老酒馆》是否是新时代首部无障碍年代电视剧，它将于2021年大年初一上线？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "关于Cubiio雷雕機的詐騙，它是事实吗？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "领取电子社保卡后，实体社保卡依然可以继续使用吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "中央氣象局今晚5月9日7點至十點的雷達回波動態圖，顯示台灣苦旱缺水的原因。中火上方的圓形波紋和水氣回波碰到後會自動消散，這是否是事實？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "患有精神疾病的人是否容易暴力伤人？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "公募基金经理兼管私募将放行，是不是专家称利好绩优基金经理？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "白俄罗斯驻英国大使馆是否于2021年12月21日遭受了袭击，一名外交官是否受到了严重伤势？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "《宇宙打歌中心》上线近两个月热度不高，是否需要培养打歌土壤？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "2021年大年三十除夕和立春是否在同一天？这种现象是否被称为谢交春？这是一个好兆头吗？这种现象是否很罕见？百年中是否只出现过三次？下一次出现这种现象要等到2057年吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "德国高速路上是否发生了一起卡车撞上美军车队的事故，导致多人受伤？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "糖尿病与生活方式有关吗？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "科创板运行一年是否为企业累计融资超过1230亿元？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "存款利率改革是否于2021年6月25日出台，以缓解银行净利差收窄的压力？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "是否存在領不了選票的情況，像是使用舊式身份證或縣市合併改制等原因？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "虐童影片是否在網路上廣泛流傳？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "在2021年世界肺动脉高压日之际，是否事实上中国首个《中国肺动脉高压患者生存状况白皮书》于30日在北京正式发布？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "农业银行是否与国家融资担保基金签订了银担“总对总”批量担保合作合同，并确定第一个合作年度支小支农政策性担保贷款合作规模为400亿元？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "将蜂蜜放入冰箱会导致它变质吗？放在室温下是否可以保存十年不变质？纯蜂蜜是否可以防止蚂蚁侵入？喝蜂蜜和茶叶是否会导致心血管堵塞？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "电影公司是否将影片供人随意下载，只要分享公司就会告你？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "是否有一男子在2020年2月衣上喷酒精后在上车时点烟，导致了爆炸？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "上海是否打造了中西医结合疫病防治基地？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "气温低于15度，1/3的热量从头部散发，气温低于10度，1/2的热量从头部散发，气温低于4度，3/4的热量从头部散发，预防脑中风请一定要戴个帽子。这是事实吗？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "陶勇医生是否现身第四届轻松筹公益盛典，呼吁关注贫困患者？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "达芬奇机器人是否在新疆完成了500例手术突破？", "label": "Factual", "domain": "Multilingual"}
+{"claim": "打开大气平衡可以解决机车发不动的问题吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "爱吃辣的人更易得老年痴呆吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "“儿童伤害预防控制合作中心”是否在上海挂牌？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "天星数科和厦门国际银行是否在2021年5月7日合作探索小微企业数字化金融服务？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "你是不是建议如果睡不着就早点躺下？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "将生姜经熏硫磺处理后可以制成嫩姜吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "太行村镇银行的老板是否在2019年5月跑路了？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "水洗面条后会变成胶吗？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "日本电视在台湾播放3天2夜是否只需要20000日元？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "水分补给充足到一定程度是否可以预防中风？原因是跑厕所比中风要好，根据體重，每公斤需要补充30cc的水份，那么60公斤的人需要补充多少水份？补充1800cc的水份是足夠的，这樣可以预防中風嗎？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "这个帖子声称禁止日本的食品进入美国，是否因为核污染的原因？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "这起事件是有两名男子搖晃瓦斯桶导致爆炸吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "免疫系統是否也几乎全被摧毁了？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "宏都拉斯白蝙蝠的体重是否仅有5克？它是否专吃无花果？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "美国前总统奥巴马是否揭露过新冠病毒是美国制造的事实，并且这是为了消灭黄种人？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "緬甸水庫是否潰堤，全村是否有人死亡？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "巴西队在2018年世界杯结束后返回国内时是否遭到球迷扔番茄和烂鸡蛋的袭击？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "鸡蛋蛋黄颜色越红越好，对吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "2020年4月黑龙江是否有一家被确诊为新冠肺炎？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "中国高铁辐射是否会严重引发不孕？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "在宾夕法尼亚州伊利湖旁边发现了3000张选票，这是事实吗？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "喝金针菇茶有助于减肥和预防癌症吗？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "这项劍橋大學的研究是否起源于美国，用于溯源新冠病毒？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "中国建设银行是否向五类人员提供了“战疫爱心保”专属服务于2020年2月18日？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "茶、咖啡能否解酒？", "label": "Non-Factual", "domain": "Multilingual"}
+{"claim": "意大利医护感染率激增，欧盟是否会对新冠疫苗进行微调？", "label": "Not Enough Information", "domain": "Multilingual"}
+{"claim": "北京金融法院是否与4家单位签约助力金融多元解纷？", "label": "Not Enough Information", "domain": "Multilingual"}
